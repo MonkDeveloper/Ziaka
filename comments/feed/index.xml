@@ -10,12 +10,12 @@
 	Comments for Zaika Biryani House	</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../index.html</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Wed, 08 Sep 2021 08:57:29 +0000</lastBuildDate>
+	<description>Best Biryani in the town</description>
+	<lastBuildDate>Wed, 15 Sep 2021 07:05:23 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8</generator>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 </channel>
 </rss>
