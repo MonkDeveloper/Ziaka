@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comments for Zaika Biryani House	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../index.html</link>
+	<atom:link href="https://www.zaikabiryanihouse.in/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.zaikabiryanihouse.in</link>
 	<description>Best Biryani in the town</description>
-	<lastBuildDate>Tue, 21 Sep 2021 05:01:51 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 21 Sep 2021 05:09:25 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

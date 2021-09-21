@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Zaika Biryani House</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="https://www.zaikabiryanihouse.in/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.zaikabiryanihouse.in</link>
 	<description>Best Biryani in the town</description>
-	<lastBuildDate>Tue, 21 Sep 2021 05:01:51 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 21 Sep 2021 05:09:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
-	<url>./../wp-content/uploads/2021/09/cropped-logo-32x32.webp</url>
+	<url>https://www.zaikabiryanihouse.in/wp-content/uploads/2021/09/cropped-logo-32x32.webp</url>
 	<title>Zaika Biryani House</title>
-	<link>./../index.html</link>
+	<link>https://www.zaikabiryanihouse.in</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
