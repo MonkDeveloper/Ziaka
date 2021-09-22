@@ -56,6 +56,7 @@ flexibility(document.documentElement);
 <link rel="shortlink" href="https://www.zaikabiryanihouse.in/?p=570">
 <link rel="alternate" type="application/json+oembed" href="https://www.zaikabiryanihouse.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.zaikabiryanihouse.in%2Fmenu%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://www.zaikabiryanihouse.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.zaikabiryanihouse.in%2Fmenu%2F&#038;format=xml">
+<style type="text/css">input {font-weight:bold;}</style>
 <style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 <link rel="icon" href="https://www.zaikabiryanihouse.in/wp-content/uploads/2021/09/cropped-logo-32x32.webp" sizes="32x32">
 <link rel="icon" href="https://www.zaikabiryanihouse.in/wp-content/uploads/2021/09/cropped-logo-192x192.webp" sizes="192x192">
@@ -1184,7 +1185,20 @@ var _wpUtilSettings = {"ajax":{"url":"\/zaika\/wp-admin\/admin-ajax.php"}};
 var wpformsElementorVars = {"captcha_provider":"recaptcha","recaptcha_type":"v2"};
 </script>
 <script src="https://www.zaikabiryanihouse.in/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.6.9" id="wpforms-elementor-js"></script>
-			<script>
+<!-- TC Custom JavaScript --><script type="text/javascript">function myFunction() {
+  /* Get the text field */
+  var copyText = document.getElementById("myInput");
+
+  /* Select the text field */
+  copyText.select();
+  copyText.setSelectionRange(0, 99999); /* For mobile devices */
+
+   /* Copy the text inside the text field */
+  navigator.clipboard.writeText(copyText.value);
+
+  /* Alert the copied text */
+  alert("Copied the text: " + copyText.value);
+}</script>			<script>
 			/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
 			</script>
 				</body>
